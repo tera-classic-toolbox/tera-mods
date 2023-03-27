@@ -1,4 +1,4 @@
 @echo off
 cd .
-C:\Python310\python.exe build.py
+py build.py
 pause
