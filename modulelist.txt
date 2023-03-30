@@ -1,3 +1,4 @@
 https://git.teramods.ml/tera-classic-mods/auto-loot/raw/master/module.json
 https://raw.githubusercontent.com/FrostSigil/auto-heal/main/module.json
 https://raw.githubusercontent.com/tera-classic-mods/shinra-toolbox-akeron/main/module.json
+https://raw.githubusercontent.com/tera-classic-mods/fps-manager/main/module.json
