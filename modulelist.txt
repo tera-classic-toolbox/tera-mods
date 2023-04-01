@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/tera-private-mods/monitor-control/master/modul
 https://raw.githubusercontent.com/tera-private-mods/exit-instantly/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/auto-cutscene/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/anti-cc/main/module.json
+https://raw.githubusercontent.com/tera-classic-mods/translate-chat/master/module.json
