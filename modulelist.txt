@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/tera-classic-mods/anti-cc/main/module.json
 https://raw.githubusercontent.com/tera-classic-mods/translate-chat/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/anti-bodyblock/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/instant-revive/master/module.json
+https://raw.githubusercontent.com/tera-classic-mods/npc-summoner/master/module.json
