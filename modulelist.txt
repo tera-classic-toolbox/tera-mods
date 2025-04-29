@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/tera-private-mods/anti-bodyblock/master/module
 https://raw.githubusercontent.com/tera-classic-mods/instant-revive/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/npc-summoner/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/auto-bank/master/module.json
+https://raw.githubusercontent.com/tera-classic-mods/party-deaths-notifier-classic/master/module.json
 https://raw.githubusercontent.com/KeeningDawn/omnidirectional/refs/heads/main/module.json
 https://raw.githubusercontent.com/KeeningDawn/menu-classic/refs/heads/main/module.json
 https://raw.githubusercontent.com/KeeningDawn/justspamf-classic/refs/heads/main/module.json
