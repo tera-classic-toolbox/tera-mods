@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/tera-classic-mods/auto-bank/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/party-deaths-notifier-classic/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/gathering-markers/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/tera-guide/master/module.json
-https://raw.githubusercontent.com/KeeningDawn/omnidirectional/refs/heads/main/module.json
+https://raw.githubusercontent.com/tera-classic-mods/omnidirectional/main/module.json
 https://raw.githubusercontent.com/KeeningDawn/menu-classic/refs/heads/main/module.json
 https://raw.githubusercontent.com/KeeningDawn/justspamf-classic/refs/heads/main/module.json
 https://raw.githubusercontent.com/KeeningDawn/simple-vanguard-classic/refs/heads/main/module.json
