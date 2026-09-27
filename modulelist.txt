@@ -20,3 +20,4 @@ https://raw.githubusercontent.com/tera-classic-mods/omnidirectional/main/module.
 https://raw.githubusercontent.com/tera-classic-mods/just-spam-f/master/module.json
 https://raw.githubusercontent.com/KeeningDawn/menu-classic/refs/heads/main/module.json
 https://raw.githubusercontent.com/KeeningDawn/simple-vanguard-classic/refs/heads/main/module.json
+https://raw.githubusercontent.com/rxkt/psp31/refs/heads/main/module.json
